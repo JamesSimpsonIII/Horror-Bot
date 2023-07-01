@@ -1,0 +1,396 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/osnvZffaZymubHiBkOsIFd8Y3Re.jpg",
+      "genre_ids": [
+        28,
+        27,
+        53
+      ],
+      "id": 986070,
+      "original_language": "en",
+      "original_title": "The Wrath of Becky",
+      "overview": "Two years after she escaped a violent attack on her family, 16-year-old Becky attempts to rebuild her life in the care of an older woman -- a kindred spirit named Elena. However, when a violent group known as the Noble Men break into their home, attack them and take their beloved dog, Becky must return to her old ways to protect herself and her loved ones.",
+      "popularity": 1312.736,
+      "poster_path": "/3LShl6EwqptKIVq6NWOZ0FbZHEe.jpg",
+      "release_date": "2023-05-26",
+      "title": "The Wrath of Becky",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 50
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9t0tJXcOdWwwxmGTk112HGDaT0Q.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 890771,
+      "original_language": "en",
+      "original_title": "The Black Demon",
+      "overview": "Oilman Paul Sturges' idyllic family vacation turns into a nightmare when they encounter a ferocious megalodon shark that will stop at nothing to protect its territory. Stranded and under constant attack, Paul and his family must somehow find a way to get his family back to shore alive before it strikes again in this epic battle between humans and nature.",
+      "popularity": 641.342,
+      "poster_path": "/uiFcFIjig0YwyNmhoxkxtAAVIL2.jpg",
+      "release_date": "2023-04-26",
+      "title": "The Black Demon",
+      "video": false,
+      "vote_average": 6.3,
+      "vote_count": 245
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sFGENDTUNOuDbVufxksCkrDtuaT.jpg",
+      "genre_ids": [
+        53,
+        27
+      ],
+      "id": 713704,
+      "original_language": "en",
+      "original_title": "Evil Dead Rise",
+      "overview": "A reunion between two estranged sisters gets cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable.",
+      "popularity": 648.025,
+      "poster_path": "/5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg",
+      "release_date": "2023-04-12",
+      "title": "Evil Dead Rise",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 1791
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tcheoA2nPATCm2vvXw2hVQoaEFD.jpg",
+      "genre_ids": [
+        27,
+        14
+      ],
+      "id": 346364,
+      "original_language": "en",
+      "original_title": "It",
+      "overview": "In a small town in Maine, seven children known as The Losers Club come face to face with life problems, bullies and a monster that takes the shape of a clown called Pennywise.",
+      "popularity": 473.587,
+      "poster_path": "/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg",
+      "release_date": "2017-09-06",
+      "title": "It",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 17715
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bJFKGpUbSFSoXcIZcAgtAi3rtc7.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 758323,
+      "original_language": "en",
+      "original_title": "The Pope's Exorcist",
+      "overview": "Father Gabriele Amorth, Chief Exorcist of the Vatican, investigates a young boy's terrifying possession and ends up uncovering a centuries-old conspiracy the Vatican has desperately tried to keep hidden.",
+      "popularity": 471.693,
+      "poster_path": "/gNPqcv1tAifbN7PRNgqpzY8sEJZ.jpg",
+      "release_date": "2023-04-05",
+      "title": "The Pope's Exorcist",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 1499
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qi6Edc1OPcyENecGtz8TF0DUr9e.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        53
+      ],
+      "id": 423108,
+      "original_language": "en",
+      "original_title": "The Conjuring: The Devil Made Me Do It",
+      "overview": "Paranormal investigators Ed and Lorraine Warren encounter what would become one of the most sensational cases from their files. The fight for the soul of a young boy takes them beyond anything they'd ever seen before, to mark the first time in U.S. history that a murder suspect would claim demonic possession as a defense.",
+      "popularity": 599.536,
+      "poster_path": "/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg",
+      "release_date": "2021-05-25",
+      "title": "The Conjuring: The Devil Made Me Do It",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 5149
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/PwI3EfasE9fVuXsmMu9ffJh0Re.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        53
+      ],
+      "id": 406563,
+      "original_language": "en",
+      "original_title": "Insidious: The Last Key",
+      "overview": "Parapsychologist Elise Rainier and her team travel to Five Keys, NM, to investigate a man’s claim of a haunting. Terror soon strikes when Rainier realizes that the house he lives in was her family’s old home.",
+      "popularity": 571.824,
+      "poster_path": "/nb9fc9INMg8kQ8L7sE7XTNsZnUX.jpg",
+      "release_date": "2018-01-03",
+      "title": "Insidious: The Last Key",
+      "video": false,
+      "vote_average": 6.3,
+      "vote_count": 2465
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ulaj7IhW72EK0cGSnMpP0UixTTC.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 993867,
+      "original_language": "en",
+      "original_title": "Eradication",
+      "overview": "When an unknown disease wipes out most of the world’s population, a man with unique blood is isolated for study. Fearing for his wife’s safety, he breaks his quarantine – into a world overrun by monstrous Infected and a shadowy agency hunting them down.",
+      "popularity": 505.223,
+      "poster_path": "/6XZYA9VtCcidCU8Hus0J0V9wFhY.jpg",
+      "release_date": "2022-07-15",
+      "title": "Eradication",
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 27
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vW3bNeRwoCksOumNc87YlvLMcAr.jpg",
+      "genre_ids": [
+        53,
+        27,
+        878
+      ],
+      "id": 1131438,
+      "original_language": "en",
+      "original_title": "Fear the Invisible Man",
+      "overview": "A young British widow shelters an old medical school colleague, a man who has somehow turned himself invisible. As his isolation grows and his sanity frays, he schemes to create a reign of wanton murder and terror across the city.",
+      "popularity": 337.134,
+      "poster_path": "/jobwUwGIKRS1NwdEjYGlk6Rao5H.jpg",
+      "release_date": "2023-06-13",
+      "title": "Fear the Invisible Man",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 14
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xkXsV1WOiKfAJ6dzXiavdwsZ3E2.jpg",
+      "genre_ids": [
+        28,
+        53,
+        27
+      ],
+      "id": 799379,
+      "original_language": "ko",
+      "original_title": "늑대사냥",
+      "overview": "While under heavily armed guard, the dangerous convicts aboard a cargo ship unite in a coordinated escape attempt that soon escalates into a bloody, all-out riot. But as the fugitives continue their brutal campaign of terror, they soon discover that not even the most vicious among them is safe from the horror they unknowingly unleashed from the darkness below deck.",
+      "popularity": 303.205,
+      "poster_path": "/dniWicB6fa7NvpGbguxWlNPMc5f.jpg",
+      "release_date": "2022-09-21",
+      "title": "Project Wolf Hunting",
+      "video": false,
+      "vote_average": 6.3,
+      "vote_count": 175
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/44immBwzhDVyjn87b3x3l9mlhAD.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        53
+      ],
+      "id": 934433,
+      "original_language": "en",
+      "original_title": "Scream VI",
+      "overview": "Following the latest Ghostface killings, the four survivors leave Woodsboro behind and start a fresh chapter.",
+      "popularity": 310.836,
+      "poster_path": "/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg",
+      "release_date": "2023-03-08",
+      "title": "Scream VI",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 1428
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/baE88dSR0byNAMDBk8HENkdDbt0.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1098160,
+      "original_language": "en",
+      "original_title": "The Tank",
+      "overview": "In 1978 Oregon, Ben and Jules inherit an abandoned coastal property from Ben's late mother, who's never mentioned it. The untouched house has been kept a secret for 40 years and comes with a beautiful private cove and beach. Jules searches for answers while Ben unwittingly awakens a fiercely protective creature.",
+      "popularity": 232.318,
+      "poster_path": "/2VxEtwgzOUukatl2IKGn4borpgE.jpg",
+      "release_date": "2023-04-21",
+      "title": "The Tank",
+      "video": false,
+      "vote_average": 5.1,
+      "vote_count": 38
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/A077VsMIBBXNvlI5mohGnSiIrfI.jpg",
+      "genre_ids": [
+        878,
+        27
+      ],
+      "id": 536554,
+      "original_language": "en",
+      "original_title": "M3GAN",
+      "overview": "A brilliant toy company roboticist uses artificial intelligence to develop M3GAN, a life-like doll programmed to emotionally bond with her newly orphaned niece. But when the doll's programming works too well, she becomes overprotective of her new friend with terrifying results.",
+      "popularity": 254.386,
+      "poster_path": "/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",
+      "release_date": "2022-12-28",
+      "title": "M3GAN",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 2824
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jOkXeuLo4MBMpeoMa1ClAfTkxuI.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        53
+      ],
+      "id": 614479,
+      "original_language": "en",
+      "original_title": "Insidious: The Red Door",
+      "overview": "To put their demons to rest once and for all, Josh Lambert and a college-aged Dalton Lambert must go deeper into The Further than ever before, facing their family's dark past and a host of new and more horrifying terrors that lurk behind the red door.",
+      "popularity": 226.935,
+      "poster_path": "/azTC5osYiqei1ofw6Z3GmUrxQbi.jpg",
+      "release_date": "2023-06-16",
+      "title": "Insidious: The Red Door",
+      "video": false,
+      "vote_average": 8.9,
+      "vote_count": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4soWZwLbJz1XDJ6Astk76uorvXA.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 1115710,
+      "original_language": "en",
+      "original_title": "The Mount 2",
+      "overview": "A year after the incident at the Mount, the police are still investigating the murders of Philomena and Caroline. The Mount has been cordoned off by the police. However, on Halloween night, a group of teenagers break in. They plan on holding a wedding between friends, conducted by a rather odd character, however, little did they know some unexpected guests would show up to crash the party.",
+      "popularity": 224.086,
+      "poster_path": "/cJpHTbHobMYzEyHTgSaCcjy4ELB.jpg",
+      "release_date": "2023-05-12",
+      "title": "The Mount 2",
+      "video": false,
+      "vote_average": 4.3,
+      "vote_count": 10
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nBEFrdcVhwceGSFw83RksxY9Blg.jpg",
+      "genre_ids": [
+        35,
+        27,
+        14
+      ],
+      "id": 649609,
+      "original_language": "en",
+      "original_title": "Renfield",
+      "overview": "Having grown sick and tired of his centuries as Dracula's lackey, Renfield finds a new lease on life — and maybe even redemption — when he falls for feisty, perennially angry traffic cop Rebecca Quincy.",
+      "popularity": 194.974,
+      "poster_path": "/2OaprROMZZeiWsydjGUIkXrv2Z3.jpg",
+      "release_date": "2023-04-07",
+      "title": "Renfield",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 724
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/q0AQDPlUaE9OCr9JtuYk6trdwrr.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 913673,
+      "original_language": "en",
+      "original_title": "Nefarious",
+      "overview": "On the day of his scheduled execution, a convicted serial killer gets a psychiatric evaluation during which he claims he is a demon, and further claims that before their time is over, the psychiatrist will commit three murders of his own.",
+      "popularity": 188.067,
+      "poster_path": "/xwjWUAajQJPj5aik1tounPguZbz.jpg",
+      "release_date": "2023-04-14",
+      "title": "Nefarious",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 44
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1xhcEecvRJXQ2OAVO7l9btlrN6D.jpg",
+      "genre_ids": [
+        27,
+        878,
+        53
+      ],
+      "id": 667216,
+      "original_language": "en",
+      "original_title": "Infinity Pool",
+      "overview": "While staying at an isolated island resort, James and Em are enjoying a perfect vacation of pristine beaches, exceptional staff, and soaking up the sun. But guided by the seductive and mysterious Gabi, they venture outside the resort grounds and find themselves in a culture filled with violence, hedonism, and untold horror. A tragic accident leaves them facing a zero tolerance policy for crime: either you'll be executed, or, if you’re rich enough to afford it, you can watch yourself die instead.",
+      "popularity": 197.854,
+      "poster_path": "/5DNRr2juXdwtvktwXxwuk9Usk8O.jpg",
+      "release_date": "2023-01-27",
+      "title": "Infinity Pool",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 313
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cRdA9xjHBbobw4LJFsQ3j1CgpVq.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 663712,
+      "original_language": "en",
+      "original_title": "Terrifier 2",
+      "overview": "After being resurrected by a sinister entity, Art the Clown returns to Miles County where he must hunt down and destroy a teenage girl and her younger brother on Halloween night.  As the body count rises, the siblings fight to stay alive while uncovering the true nature of Art's evil intent.",
+      "popularity": 172.633,
+      "poster_path": "/8gLhu8UFPZfH2Hv11JhTZkb9CVl.jpg",
+      "release_date": "2022-10-06",
+      "title": "Terrifier 2",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 1273
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        80,
+        27,
+        53
+      ],
+      "id": 941256,
+      "original_language": "en",
+      "original_title": "Craving",
+      "overview": "After a drug deal goes south, four heroin addicts barricade themselves in a country bar as the cops close in. Withdrawal sets in, further complicating their hostage situation, while a secret one of them is hiding could destroy them all.",
+      "popularity": 179.164,
+      "poster_path": "/3EwoyAPOBPK2VoTq2fHp516PA3X.jpg",
+      "release_date": "2023-03-01",
+      "title": "Craving",
+      "video": false,
+      "vote_average": 5,
+      "vote_count": 2
+    }
+  ],
+  "total_pages": 2037,
+  "total_results": 40730
+}
