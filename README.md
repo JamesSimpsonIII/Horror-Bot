@@ -2,13 +2,13 @@
 ![banner](./Black%20Yellow%20Illustrated%20Spooky%20Halloween%20Party%20Banner.png)
 
 
-#Project Overview
+# Project Overview
 
-##Spooky Movie Recommendation Slack Chatbot
+## Spooky Movie Recommendation Slack Chatbot
 
 This project is a Slack chatbot that recommends horror movies, built using Amazon Lex, AWS Lambda, Python, and the TMDB API. The chatbot leverages natural language understanding to provide users with scary-good suggestions for horror movies, keeping up with the spooky season vibes.
 
-##Project Highlights
+## Project Highlights
 - **Technologies Used**: Amazon Lex, AWS Lambda, Python, and the TMDB API.
 - **Integration with Slack**: The chatbot is designed to interact with users on the Slack platform, allowing them to request horror movie recommendations directly from their Slack channels.
 - **Natural Language Understanding**: The chatbot utilizes Amazon Lex to understand user intents and extract key information from their requests.
