@@ -1,9 +1,10 @@
 import json
 import random
 import requests
+import os
 
 def random_num():
-    return(random.randint(1, 1000))
+    return(random.randint(1, 8))
 
 def get_session_attributes(intent_request):
     sessionState = intent_request['sessionState']
@@ -26,19 +27,32 @@ def close(intent_request, session_attributes, fulfillment_state, message):
     }
 
 def getMovie(intent_request):
-    url = "https://api.themoviedb.org/3/discover/movie?include_adult=true&include_video=false&language=en-US&page=1&sort_by=popularity.desc&with_genres=27"
-
+    session_attributes = get_session_attributes(intent_request)
+    token = os.environ['token']
+    baseUrl = "http://image.tmdb.org/t/p/"
+    movieURL = "https://api.themoviedb.org/3/discover/movie?include_adult=true&include_video=false&language=en-US&page=1&sort_by=popularity.desc&with_genres=27"
     headers = {
-        "accept": "application/json",
-        "Authorization": "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhMTE2NDUzYmNmYjNiNjk2ODQ1MTNkODk2NDM5ZjgyMyIsInN1YiI6IjY0OWY5YWUwODFkYTM5MDE0ZDQ5NDJlNSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.dOU5FdfZ_2INIPH3Wioh6fsOH3j9tuSqCv_HTL95Lng"
+    "accept": "application/json",
+    "Authorization": "Bearer {}".format(token)
     }
     
-    session_attributes = get_session_attributes(intent_request)
-    movieList = requests.get(url, headers=headers)
-    movie = movieList["results"][random_num()]["title"]
+    randInt = random_num()
+    movieList = requests.get(movieURL, headers=headers)
+    data = movieList.json()
+    title = data["results"][randInt]["title"]
+    descr = data["results"][randInt]["overview"]
+    
+    imageSize = "w300"
+    imagePath = data["results"][randInt]["backdrop_path"]
+
     message = {
-        'contentType': 'PlainText',
-        'content': movie
+        'contentType': 'ImageResponseCard',
+        'content': "{} \n {}".format(title,descr),
+        "imageResponseCard": {
+                "title": title,
+                "subtitle": descr[:245] + "...",
+                "imageUrl": "{}{}{}".format(baseUrl,imageSize,imagePath)
+        }      
     }
     fulfillment_state = "Fulfilled"
     return close(intent_request, session_attributes, fulfillment_state, message)
